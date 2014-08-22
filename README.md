@@ -10,4 +10,6 @@ Hit the space bar to start the clock, and toggle notes on and off with the Launc
 
 The left and right arrows will page back and forth between the left and right sides of the sequencer grid.
 
+There's a crappy iPhone video of an early version of the patch [here](https://github.com/stringbot/LP_Stepper). Who knows what went wrong with the sync...
+
 Feel free to use this however you want.
